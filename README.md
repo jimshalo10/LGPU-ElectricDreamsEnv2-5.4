@@ -1,6 +1,8 @@
 To download ia GitCMD
 $ cd C:\Users\Owner\source\repos\
-$ ```git clone https://github.com/jimshalo10/LGPU-ElectricDreamsEnv2-5.4.git```
+```
+git clone https://github.com/jimshalo10/LGPU-ElectricDreamsEnv2-5.4.git LGPU-ElectricDreamsEnv2-5.4
+```
 
 To make this run you must transfer the CONTENT folder, about 48GB, into this directory from the original project download. 
 
