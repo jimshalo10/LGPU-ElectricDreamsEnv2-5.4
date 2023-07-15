@@ -22,5 +22,8 @@ Right Click on the "Solution ElectricDreamsEnv2" and select "Build Solution".
 
 When succesfully built, File Menu Debug -> Start without Debugging"
 
-When the UE 5.4 Shaders have built the UE Project Selector will browse to open select the 
+When the UE 5.4 Shaders have built the UE Project Selector will open browse to select the file "ElectricDreamsEnv2.uproject"
+
+
+
 VS 2019 is deprecated in UE 5.4, You may see an error message.
