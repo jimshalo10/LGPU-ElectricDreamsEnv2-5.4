@@ -12,6 +12,7 @@ example
 You will have built the project in VS2022 by right click on ElectricDreamsEnv2.sln and selecting Visual Studio 2022.
 
 Right Click on the "Solution ElectricDreamsEnv2" and select "Build Solution".
+
 When succesfully built, File Menu Debug -> Start without Debugging"
 
 
