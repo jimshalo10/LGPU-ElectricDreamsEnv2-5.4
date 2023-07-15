@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SP_Camera.cpp.obj": [
+			"SPCameraMode.gen.cpp.obj",
+			"SPCam_AttachedCamera.gen.cpp.obj",
+			"SPCam_ThirdPerson.gen.cpp.obj",
+			"SPPlayerCameraManager.gen.cpp.obj",
+			"SP_Camera.init.gen.cpp.obj",
+			"SPCameraMode.cpp.obj",
+			"SPCam_AttachedCamera.cpp.obj",
+			"SPCam_ThirdPerson.cpp.obj",
+			"SPPlayerCameraManager.cpp.obj",
+			"SP_CameraModule.cpp.obj"
+		]
+	}
+}

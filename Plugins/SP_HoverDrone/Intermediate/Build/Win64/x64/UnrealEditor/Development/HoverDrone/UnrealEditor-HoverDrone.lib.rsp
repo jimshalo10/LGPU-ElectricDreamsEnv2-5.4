@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HoverDrone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_2.h.obj"
+"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Plugins\SP_HoverDrone\Intermediate\Build\Win64\x64\UnrealEditor\Development\HoverDrone\Module.HoverDrone.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Plugins\SP_HoverDrone\Intermediate\Build\Win64\x64\UnrealEditor\Development\HoverDrone\UnrealEditor-HoverDrone.lib"

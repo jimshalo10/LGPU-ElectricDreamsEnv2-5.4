@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SP_Interpolators.cpp.obj": [
+			"SPInterpolators.gen.cpp.obj",
+			"SPInterpolatorsBPLibrary.gen.cpp.obj",
+			"SP_Interpolators.init.gen.cpp.obj",
+			"SPInterpolators.cpp.obj",
+			"SPInterpolatorsBPLibrary.cpp.obj",
+			"SP_InterpolatorsModule.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HoverDrone.cpp.obj": [
+			"HoverDrone.init.gen.cpp.obj",
+			"HoverDroneTypes.gen.cpp.obj",
+			"HoverDrone.cpp.obj",
+			"HoverDroneMovementComponent.cpp.obj",
+			"HoverDronePawn.cpp.obj",
+			"HoverDronePawnBase.cpp.obj",
+			"HoverDroneSpeedLimitBox.cpp.obj",
+			"HoverDroneUtils.cpp.obj",
+			"HoverDroneVolumeManager.cpp.obj"
+		]
+	}
+}
