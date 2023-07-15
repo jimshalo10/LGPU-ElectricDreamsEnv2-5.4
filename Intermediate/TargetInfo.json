@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ElectricDreamsSample",
+			"Path": "..\\Source\\ElectricDreamsSample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ElectricDreamsSampleEditor",
+			"Path": "..\\Source\\ElectricDreamsSampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

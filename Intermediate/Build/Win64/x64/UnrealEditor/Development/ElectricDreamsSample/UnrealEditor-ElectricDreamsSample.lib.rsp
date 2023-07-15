@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ElectricDreamsSample.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_2.h.obj"
+"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ElectricDreamsSample\EDSAudioSettings.gen.cpp.obj"
+"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ElectricDreamsSample\ElectricDreamsSample.init.gen.cpp.obj"
+"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ElectricDreamsSample\ElectricDreamsSample.cpp.obj"
+"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ElectricDreamsSample\EDSMixManagerSubsystem.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\Users\Owner\Documents\Unreal Projects\ElectricDreamsEnv2 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ElectricDreamsSample\UnrealEditor-ElectricDreamsSample.lib"

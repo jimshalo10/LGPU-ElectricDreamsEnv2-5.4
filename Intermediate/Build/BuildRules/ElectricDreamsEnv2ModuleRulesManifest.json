@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Source\\ElectricDreamsSample\\ElectricDreamsSample.Build.cs",
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Plugins\\SP_Camera\\Source\\SP_Camera.Build.cs",
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Plugins\\SP_HoverDrone\\Source\\HoverDrone\\HoverDrone.Build.cs",
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Plugins\\SP_Interpolators\\Source\\SP_Interpolators.Build.cs",
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Source\\ElectricDreamsSample.Target.cs",
+		"D:\\Users\\Owner\\Documents\\Unreal Projects\\ElectricDreamsEnv2 5.4\\Source\\ElectricDreamsSampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}

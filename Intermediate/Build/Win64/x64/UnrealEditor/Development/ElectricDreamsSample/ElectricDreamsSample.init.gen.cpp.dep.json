@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\owner\\documents\\unreal projects\\electricdreamsenv2 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\electricdreamssample\\uht\\electricdreamssample.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\owner\\source\\repos\\ue5lgpu54\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_2.h.pch",
+        "Includes": [
+            "d:\\users\\owner\\documents\\unreal projects\\electricdreamsenv2 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\electricdreamssample\\definitions.electricdreamssample.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

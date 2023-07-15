@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ElectricDreamsEnv2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElectricDreamsSample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ElectricDreamsSampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ElectricDreamsEnv2.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SP_Camera">
+      <UniqueIdentifier>{43E59225-02EB-3EA1-878E-D38F0DB5218C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SP_Camera\Source">
+      <UniqueIdentifier>{F1128D43-4F8E-3755-A2B4-B1E5E31C67E0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SP_Camera\Source\SPCameraMode.cpp">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Camera\Source\SPCameraMode.h">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SP_Camera\Source\SPCam_AttachedCamera.cpp">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Camera\Source\SPCam_AttachedCamera.h">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SP_Camera\Source\SPCam_ThirdPerson.cpp">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Camera\Source\SPCam_ThirdPerson.h">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SP_Camera\Source\SPPlayerCameraManager.cpp">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Camera\Source\SPPlayerCameraManager.h">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SP_Camera\Source\SP_Camera.Build.cs">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\SP_Camera\Source\SP_CameraModule.cpp">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Camera\Source\SP_CameraModule.h">
+      <Filter>Plugins\SP_Camera\Source</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SP_Camera\SP_Camera.uplugin">
+      <Filter>Plugins\SP_Camera</Filter>
+    </None>
+    <Filter Include="Plugins\SP_Camera\Resources">
+      <UniqueIdentifier>{A87B5193-F9FA-39E9-AD63-37CAB7698884}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SP_Camera\Resources\Icon128.png">
+      <Filter>Plugins\SP_Camera\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SP_HoverDrone">
+      <UniqueIdentifier>{D0AE659C-B3C6-3B5C-B78C-8BA6D6061C17}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SP_HoverDrone\SP_HoverDrone.uplugin">
+      <Filter>Plugins\SP_HoverDrone</Filter>
+    </None>
+    <Filter Include="Plugins\SP_Interpolators">
+      <UniqueIdentifier>{A2BDC0FB-9F77-3048-B908-BBC4941DB661}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SP_Interpolators\SP_Interpolators.uplugin">
+      <Filter>Plugins\SP_Interpolators</Filter>
+    </None>
+    <Filter Include="Plugins\SP_Interpolators\Resources">
+      <UniqueIdentifier>{29E21264-A0D4-30BF-A492-334278EAA685}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SP_Interpolators\Resources\Icon128.png">
+      <Filter>Plugins\SP_Interpolators\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SP_HoverDrone\Source">
+      <UniqueIdentifier>{FFAFE05E-907F-355D-9009-8E874044BCF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SP_HoverDrone\Source\HoverDrone">
+      <UniqueIdentifier>{F38B9694-A4B6-3B25-A890-081A704B1A58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\HoverDrone.Build.cs">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone</Filter>
+    </None>
+    <Filter Include="Plugins\SP_HoverDrone\Source\HoverDrone\Private">
+      <UniqueIdentifier>{EDA0739B-73D3-3CEA-B43B-BCCA43E4F279}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDrone.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDroneMovementComponent.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDronePawn.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDronePawnBase.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDroneSpeedLimitBox.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDroneUtils.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Private\HoverDroneVolumeManager.cpp">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SP_HoverDrone\Source\HoverDrone\Public">
+      <UniqueIdentifier>{71D3771D-1CF6-33F9-9FE5-9CF38DDAAF03}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDrone.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDroneMovementComponent.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDronePawn.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDronePawnBase.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDroneSpeedLimitBox.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDroneTypes.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDroneUtils.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SP_HoverDrone\Source\HoverDrone\Public\HoverDroneVolumeManager.h">
+      <Filter>Plugins\SP_HoverDrone\Source\HoverDrone\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SP_Interpolators\Source">
+      <UniqueIdentifier>{F11F3455-BB89-3156-BDC9-351C9A1ADFD5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SP_Interpolators\Source\SPInterpolators.cpp">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Interpolators\Source\SPInterpolators.h">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SP_Interpolators\Source\SPInterpolatorsBPLibrary.cpp">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Interpolators\Source\SPInterpolatorsBPLibrary.h">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SP_Interpolators\Source\SP_Interpolators.Build.cs">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\SP_Interpolators\Source\SP_InterpolatorsModule.cpp">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SP_Interpolators\Source\SP_InterpolatorsModule.h">
+      <Filter>Plugins\SP_Interpolators\Source</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElectricDreamsSample">
+      <UniqueIdentifier>{7357B444-42BF-32BC-9CBC-AC9C7D05C166}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElectricDreamsSample\ElectricDreamsSample.Build.cs">
+      <Filter>Source\ElectricDreamsSample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ElectricDreamsSample\ElectricDreamsSample.cpp">
+      <Filter>Source\ElectricDreamsSample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElectricDreamsSample\ElectricDreamsSample.h">
+      <Filter>Source\ElectricDreamsSample</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElectricDreamsSample\Audio">
+      <UniqueIdentifier>{9B1B8B7F-6384-3CA7-A947-781DA8AC28BB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ElectricDreamsSample\Audio\EDSAudioSettings.h">
+      <Filter>Source\ElectricDreamsSample\Audio</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElectricDreamsSample\Audio\EDSMixManagerSubsystem.cpp">
+      <Filter>Source\ElectricDreamsSample\Audio</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElectricDreamsSample\Audio\EDSMixManagerSubsystem.h">
+      <Filter>Source\ElectricDreamsSample\Audio</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
